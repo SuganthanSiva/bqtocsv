@@ -1,0 +1,7 @@
+dataset_id,table_id
+temp_expire_30_days,gp_apps_202209
+temp_expire_30_days,gp_apps_202210
+temp_expire_30_days,gp_estimates_202209
+temp_expire_30_days,gp_estimates_202210
+temp_expire_30_days,gp_publishers_202209
+temp_expire_30_days,gp_publishers_202210
